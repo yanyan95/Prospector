@@ -324,7 +324,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 51
+  field of view: 28
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -460,6 +460,8 @@ MonoBehaviour:
   scoreRun: 0
   score: 0
   fsRun: {fileID: 0}
+  GTGameOver: {fileID: 0}
+  GTRoundResult: {fileID: 0}
 --- !u!114 &827460516
 MonoBehaviour:
   m_ObjectHideFlags: 0
